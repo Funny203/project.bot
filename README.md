@@ -9,7 +9,7 @@
 
 ## 🚀 Быстрый старт
 
-### Библиотеки
+## Что бы начать используйте команды:
 
 ```bash
-pip install pyTelegramBotAPI
+/start или /info
